@@ -1,0 +1,17 @@
+# Visual Studio y compilacion .NET
+.vs/
+**/bin/
+**/obj/
+TestResults/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.nupkg
+*.snupkg
+# Configuracion local y credenciales
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12

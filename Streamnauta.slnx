@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Streamnauta.Domain.Tests/Streamnauta.Domain.Tests.csproj" Id="c3bc018d-ad24-404c-aec8-189379911b07" />
+  <Project Path="Streamnauta.Domain/Streamnauta.Domain.csproj" />
+</Solution>
